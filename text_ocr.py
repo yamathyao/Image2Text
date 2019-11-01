@@ -3,9 +3,9 @@ import os
 from aip import AipOcr
 
 # 认证信息
-APP_ID = "17660456"
-API_KEY = "Fba37MvW4HScnQ2k3kz7cEjh"
-SECRET_KEY = "kXVGhuBi6RjNLH9UbnVZpG4X300TfvHk"
+APP_ID = "1700000"
+API_KEY = "F000000000000000000000"
+SECRET_KEY = "k0000000000000000000000000000000000000"
 
 
 def get_ocr_str(file_path, general_or_accurate, origin_format=True):
